@@ -2,8 +2,6 @@
 
 JSON in, image URL out. An MCP server that gives WhatsApp agents tickets and bar charts: the agent sends the data, the server does the math and renders the PNG.
 
-[![Demo video](https://img.youtube.com/vi/tjG1KP2XuCc/hqdefault.jpg)](https://youtu.be/tjG1KP2XuCc)
-
 Live: https://quick-images-mcp.fguespe.workers.dev · A prototype by Fabri Guespe.
 
 | Ticket | Chart |
